@@ -1,4 +1,4 @@
-#Herramientas para la elevación de privilegios
+# Herramientas para la elevación de privilegios
 
 + __LinPeas__
 
@@ -13,20 +13,20 @@
     [https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS)
 
 
-+ Empire Framework 
++ __Empire Framework__ 
 
     Empire es un framework de emulación de adversarios y post-exploitation, que se utiliza para ayudar a los ReadTeam y los Pentration Testers.
 
     [https://github.com/BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire)
 
 
-+ Linux Smart Enumeration
++ __Linux Smart Enumeration__
 
     Herramientas de enumeración de Linux para pentesting y CTF
 
     [https://github.com/diego-treitos/linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
 
-+ LOLBas
++ __LOLBas__
 
     El objetivo del proyecto LOLBAS es documentar todos los binarios, scripts y bibliotecas que pueden usarse para las técnicas de Living Off The Land. ;)
 
